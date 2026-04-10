@@ -99,4 +99,9 @@ This project demonstrates:
 - Reinforcement learning agent (Q-learning / DQN)  
 - Full Pygame-based rendering instead of turtle  
 - Improved evaluation heuristics  
-- More accurate physics simulation  
+- More accurate physics simulation
+
+- <img width="1426" height="849" alt="image" src="https://github.com/user-attachments/assets/5010ddf1-7426-4211-912f-dbcf1f7ab687" />
+<img width="1124" height="784" alt="image" src="https://github.com/user-attachments/assets/ec78bcac-7bf9-46c7-86eb-627347e9d03d" />
+
+
